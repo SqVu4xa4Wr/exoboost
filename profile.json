@@ -2,7 +2,7 @@
   "code": 200,
   "message": "success",
   "data": {
-    "view": "https://www.gx-exo.com",
+    "tar": "https://www.gx-exo.com",
     "privacy": "https://sites.google.com/view/exoboost-privacypolicy",
     "topAnchor": "181832",
     "bottomAnchor": "212049"
